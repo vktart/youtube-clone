@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../cat-twitter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html-css-course"
+	}
+}
